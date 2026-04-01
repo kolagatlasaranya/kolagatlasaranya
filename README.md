@@ -97,19 +97,6 @@ Enterprise Business Analyst with **2+ years** of cross-functional experience at 
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saranya-kolagatla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranya-kolagatla&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=saranya-kolagatla&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
 
 ---
 
