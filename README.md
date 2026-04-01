@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/150/0969DA/FFFFFF?text=SK" width="150" alt="Saranya Kolagatla"/>
+<img src="profile.jpeg" width="150" alt="Saranya Kolagatla"/>
 
 # Saranya Kolagatla
 
